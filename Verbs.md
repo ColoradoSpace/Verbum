@@ -22,7 +22,7 @@ The Phonology of verbs is [CVC( - w, r, y, s, h, j, v, z)]. This is true for all
 |Make|pan|'m' is reserved so 'p' for Produce|
 |Use|van|last consonant available is 'v'|
 
-Using a 3-letter limit for Verbs might seem limiting, but verbs use a series of derivative morphemes so the number of actual verbs that can be created within a verb group can reach the thousands. For example: using the verb to SEE (lan), if we add the verb derivative variation morpheme for ‘physical action’, rō- (**rōlan**) we get the verb to Look.
+Using a 3-letter limit for Verbs might seem limiting, but verbs use a series of derivative morphemes so the number of actual verbs that can be created within a verb group can reach the thousands. For example: using the verb _to SEE_ (**lan**), if we add the verb derivative variation morpheme for _‘physical action’_, **rō**- (**rōlan**) we get the verb _to Look_.
   
 ## Conjugation
 
