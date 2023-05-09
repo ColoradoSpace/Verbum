@@ -2,12 +2,14 @@
 
 ## Sentence Translations with Audio Recordings
 
+
 ENGLISH: The Bird Sings
 
 VERBUM: sings bird
 
 **Sun sēgōgol de’gojo**
 
+-----------
 
 ENGLISH: The Children Play
 
