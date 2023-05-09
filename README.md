@@ -1,46 +1,35 @@
-# Phonology
+# Verbum Introduction
+## A Simplified Oligosynthetic Auxilary Constructed Language
 
-**Verbum** uses a simplified phonology compared to English mainly for the purpose of removing similar sounds that can cause confusion when hearing words for the first time.&nbsp; For example, early learners will not hear the same short “a” and short “o” sounds that can conflicts when people fail to pronounce words with extreme clarity, as is common among any language speaker.&nbsp; As such, the Phonology of **Verbum** is listed in the chart below.
+As a Oligosynthetic Language, **Verbum** uses a set of modifying morphemes to create concepts, meanings, and words. Its collection of morphemes is less than 100 allowing it to fall into the category of a Oligosynthetic and the number of root words in the language is also quite small.&nbsp; But, unlike **Toki Pona**, **Verbum** tries to create a language that can be used for the full breadth of communications including complex subjects such as mathematics and other scientific subjects.&nbsp; Will **Verbum** succeed at this? That is still to be seen.
 
-## Vowels
+**Verbum’s** primary goal is to provide a language that is designed in a technical, strategic way such that people can learn the language fairly easily, but more importantly, understand general topics and concepts of conversation without actually knowing the full meaning of every word in the language.&nbsp; The intent is that someone learning **Verbum** can still understand the basics of what is being said as they learn more.&nbsp; This makes learning the rules of the language and morpheme catalog important to the basics of Verbum understanding.&nbsp; For example, **Verbum** has what is known as Primary Verbs with each corresponding to English equivalents such that knowing only the first letter of the Verb tells you what corresponding English verb group it belongs to.&nbsp; In this way any Verb can be equated to the group and a reading of the **Verbum** sentence can result in a basic understanding of what is being said.&nbsp; So, a learner may not know the verb to Walk (**gil**). But they do know that the leading “g’ in the verb means its in the to Go family.&nbsp; So **gil** has something to do with going, moving, travelling, … walking. Now as the Learner starts to understand the morpheme catalog, it becomes fairly easy to determine the intent of a sentence without knowing what the actual verb is.&nbsp; Also, since the language is Verb-centric, most Nouns are also derived from verbs.&nbsp; So understanding the morphology will again help the learner derive what are the noun and subjects.&nbsp; Hopeful this guide will help you develop a general conceptual understanding of the language allowing you to engage in the conversation of **Verbum**.
 
-||||||
-|--- |--- |--- |--- |--- |
-|Letter|Sound||Letter|Sound|
-|a|æ||ā|eɪ|
-|e|ɛ||ē|i:|
-|i|ɪ||ī|aɪ|
-|o|ɑ||ō|oʊ|
-|u|ʊ||ū|u:|
+[Phomology](Phonology.md)
 
-## Consonants
+[General Language Rules](Rules.md)
 
-||||||
-|--- |--- |--- |--- |--- |
-|Letter|Sound||Letter|Sound|
-|b|b||ć|t͡ʃ|
-|d|d||f|f|
-|g|g||h|h|
-|j|ʑ||k|k|
-|l|l||m|m|
-|n|n||ŋ|ŋ|
-|p|p||r|r|
-|s|s||ś|ʃ|
-|t|t||ṯ|θ|
-|ẗ|ð||v|v|
-|w|w||y|j|
-|z|z||||
+[Common Morphemes](Common_Morphemes.md)
 
-Notice that **Verbum** removes the ‘c’ sound for cat or city as that is a ‘k’ or ‘s’. ‘x’ is also removed along with ‘q’.&nbsp; There are times in **Verbum** when it incorporates English words. Obviously, there are times when those words might use a “c”, “q”, or “x”.&nbsp; In those cases, it is permissible to use phonetic letters to create a similar sound: c (k or s), q (kw), x (ks).
+[Pronouns](Pronouns.md)
 
-## Capitalization
+[Demonstratives](Demonstratives.md)
 
-A quick note about capitalization: there isn’t any in **Verbum**.&nbsp; **Verbum** has a proper name/place/thing morpheme that removes the need for capitalization (or any rules that have to remembered to determine when to capitalize).
+[Reserve Morphemes & Words](Reserve_Morphemes.md)
 
-## Phonotactics
+[Verbs](Verbs.md)
 
-I quick comment about phonotactics in **Verbum**.&nbsp; There isn’t any, or it should be said, **Verbum** includes all phonotactics.&nbsp; There isn’t one specific set of phonotactics rules for **Verbum**.&nbsp; In fact, its not uncommon when listening to verbum that you will hear French, German, Russian, a little Turkish, and even Native American.&nbsp; Because **Verbum** has strict engineered rule about word construction, its not uncommon for certain consonants to be found together in what would normally be a difficult or unlikely phonotactic combination.&nbsp; For this reason, as listed in the rules, **Verbum** is spoken slowly, methodically, and carefully. This gives the speaker and listener time to pronounce and understand the meaning of what is being said.
+[Nouns](Nouns.md)
 
-## The Letter r
+[Noun Examples](Noun-Examples.md)
 
-In most cases, and “r” is pronounced with a mild trill or roll as in [r].&nbsp; However, when it feels comfortable within words [ɹ], is allowed.
+[Adverbs & Adjectives](Adverbs-Adjectives.md)
+
+[Conjunctions & Prepositions](Conj-Prep.md)
+
+## Resources
+
+[Verbum Dictionary](https://docs.google.com/spreadsheets/d/16BcdAuPcxNzvuQYlqmAuMscKl2X1x5X5DPMqcXPiwWw/edit#gid=0)
+
+
+
