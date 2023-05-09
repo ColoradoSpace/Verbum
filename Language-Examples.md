@@ -24,9 +24,9 @@ ENGLISH: The Baby Laughed
 VERBUM: laughed baby
 
 **nērūfōn vōwājo**
-
-[Audio Link](https://voca.ro/1keLR2IOgYsW)
 ```
+[Audio Link](https://voca.ro/1keLR2IOgYsW)
+
 
 ```
 ENGLISH: The Sun is Shining
