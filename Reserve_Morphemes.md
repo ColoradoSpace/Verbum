@@ -1,0 +1,5 @@
+# Reserve Morphemes
+
+Throughout the language, you will notice some words that do not comply with general word structure rules.&nbsp; These are, in most cases Reserve Words that look like morphemes.&nbsp; The most important one is the word for man (**mo**). Additional Reserve Words deal with Time (**dē**[‘day’], **dēz**[‘time’]) and Colors (**rī**[‘red’], **yē**[‘Lime'], **bū**[‘blue’], **nī**[‘black’], &amp; **wō**[‘white’]). In some cases, Reserve Words refer to a reserve leading consonant so that any vowel combination with the reserve consonant also becomes a reserve word.&nbsp; This is seen in Numbers (**k**[vowel]) &amp; **p**[vowel]). All of these are Nouns and will be described when we cover Nouns later.
+
+One issue is seen when using **jo** to make words as per the rules above. When making words plural we add **sē** [si:] to the word, but this gets to be an issue when you are actually writing or saying the word “Plural” as that would be **sējo.** But that could also be interpreted as “Things” (_Thing plural_). So, for differentiation, Things is written and spoken as **sē’jo** with a guttural stop sound.&nbsp;&nbsp;
