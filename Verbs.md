@@ -26,7 +26,7 @@ Using a 3-letter limit for Verbs might seem limiting, but verbs use a series of 
   
 ## Conjugation
 
-Conjugation in **Verbum** is straight forward but uses a number of derivation morphemes that are applied to the verb in a certain order to express the full conjugation of a verb similar to the way English conjugates verbs.&nbsp; If a verb has no modification, it is in the Present Indicative form.&nbsp; The tables below show an example of Conjugation using the verb to See **(lan).**
+Conjugation in **Verbum** is straight forward but uses a number of derivation morphemes that are applied to the verb in a certain order to express the full conjugation of a verb similar to the way English conjugates verbs.&nbsp; If a verb has no modification, it is in the Present Indicative form.&nbsp; The tables below show an example of Conjugation using the verb _to See_ **(lan).**
 
 ||
 |--- |
