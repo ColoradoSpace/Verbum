@@ -10,8 +10,6 @@
 
 * The language order for **Verbum** is Verb-Subject-Object (VSO), unlike English which is SVO.&nbsp; For any SVO speaker this would make the sentence sound like a question. In **Verbum** questions are formed with a morpheme to clarify the intent of the sentence.&nbsp; We will get to that morpheme later
 
-* There is no gendered words and conjugation does not result in different words to learn (<em>go</em> and <em>went</em>) making learning easier. All conjugation is morphologically based
-
 * Although not common, it can happen where morphemes are combined with other morphemes or words where two vowels are placed together.&nbsp; This is not usually allowed so to clarify what is being said a **‘** is placed between the vowels. We will show it later, but an example would be the word <em>these</em> (**sē’ūs**)&nbsp;
 
 * All morphemes have meanings.&nbsp; When you want to use that meaning as a word in **Verbum**, the morpheme is combined with the word for <em>It </em>(**jo**) based on the affix location of the morpheme.&nbsp; An example is the morpheme for <em>Child of</em> (**wā-). **So, to create the word <em>Child</em> you add <em>It</em> as a suffix, **wājo**. Similarly, to create the word for <em>Future</em>, we use <em>It</em> and the <em>Future Tense </em>&nbsp;morpheme (-**nē**) to get **jonē**.
