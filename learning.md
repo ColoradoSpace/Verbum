@@ -2,7 +2,7 @@
 
 The following lessons (still under development) should help guide learners in learning the basics of Verbum so that they can become basic speakers. 
 
-[Phonetic Practice](phonetics.md)
+[Phonetic Practice](phonology.md)
 
 [Top 100 Words](100Words.md)
 
