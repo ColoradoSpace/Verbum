@@ -8,10 +8,10 @@
 |--- |--- |--- |--- |--- |
 |Letter|Sound||Letter|Sound|
 |a|[æ](https://en.wikipedia.org/wiki/File:Near-open_front_unrounded_vowel.ogg)||ā|eɪ|
-|e|[ɛ](https://en.wikipedia.org/wiki/File:Open-mid_front_unrounded_vowel.ogg)||ē|i:|
-|i|ɪ||ī|aɪ|
-|o|ɑ||ō|oʊ|
-|u|ʊ||ū|u:|
+|e|[ɛ](https://en.wikipedia.org/wiki/File:Open-mid_front_unrounded_vowel.ogg)||ē|[i:](https://en.wikipedia.org/wiki/File:Close_front_unrounded_vowel.ogg)|
+|i|[ɪ](https://en.wikipedia.org/wiki/File:Near-close_near-front_unrounded_vowel.ogg)||ī|aɪ|
+|o|[ɑ](https://en.wikipedia.org/wiki/File:Open_back_unrounded_vowel.ogg)||ō|oʊ|
+|u|[ʌ](https://en.wikipedia.org/wiki/File:PR-open-mid_back_unrounded_vowel2.ogg)||ū|[u:](https://en.wikipedia.org/wiki/File:Close_back_rounded_vowel.ogg)|
 
 ## Consonants
 
