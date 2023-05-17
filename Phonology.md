@@ -43,4 +43,4 @@ I quick comment about phonotactics in **Verbum**.&nbsp; There isn’t any, or it
 
 ## The Letter r
 
-In most cases, and “r” is pronounced with a mild trill or roll as in [r].&nbsp; However, when it feels comfortable within words [ɹ], is allowed.
+In most cases, and “r” is pronounced with a mild trill or roll as in [r].&nbsp; However, when it feels comfortable within words [ɹ](https://en.wikipedia.org/wiki/File:Alveolar_approximant.ogg), is allowed.
