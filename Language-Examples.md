@@ -31,7 +31,7 @@ VERBUM: laughed baby
 ```
 ENGLISH: The Sun is Shining
 
-VERBUM: is shingin Sun
+VERBUM: is shinging Sun
 
 **rādītnō glār**
 ```
@@ -39,9 +39,9 @@ VERBUM: is shingin Sun
 ```
 ENGLISH: The Sun will shine tomorrow
 
-VERBUM: will shine tomorrow Sun
+VERBUM: will shine Sun tomorrow
 
-**rādītnē dēnē glār **
+**rādītnē glār dēnē**
 ```
 [Audio Link](https://voca.ro/12I9t7bBppZ7)
 
@@ -79,9 +79,8 @@ ENGLISH: The two boys are working together
 
 VERBUM: are working together boys two
 
-**rādansē jowū sēyāmo kā**
+**rādannō jowū sēyāmo kā**
 ```
-[Audio Link](https://voca.ro/1eHbwdJNAUh7)
 
 
 ```
