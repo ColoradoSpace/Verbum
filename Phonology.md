@@ -13,7 +13,7 @@
 |o|[ɑ](https://en.wikipedia.org/wiki/File:Open_back_unrounded_vowel.ogg)||ō|[oʊ](https://pronuncian.com/introduction-to-long-vowels)|
 |u|[ʌ](https://en.wikipedia.org/wiki/File:PR-open-mid_back_unrounded_vowel2.ogg)||ū|[u:](https://en.wikipedia.org/wiki/File:Close_back_rounded_vowel.ogg)|
 
-## Consonants
+## Consonants (most have English sounds except for those with links)
 
 ||||||
 |--- |--- |--- |--- |--- |
