@@ -8,7 +8,7 @@
 |--- |--- |--- |--- |--- |
 |Letter|Sound||Letter|Sound|
 |a|[æ](https://en.wikipedia.org/wiki/File:Near-open_front_unrounded_vowel.ogg)||ā|eɪ|
-|e|ɛ||ē|i:|
+|e|[ɛ](https://en.wikipedia.org/wiki/File:Open-mid_front_unrounded_vowel.ogg)||ē|i:|
 |i|ɪ||ī|aɪ|
 |o|ɑ||ō|oʊ|
 |u|ʊ||ū|u:|
