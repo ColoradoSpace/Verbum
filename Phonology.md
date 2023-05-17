@@ -18,17 +18,17 @@
 ||||||
 |--- |--- |--- |--- |--- |
 |Letter|Sound||Letter|Sound|
-|b|b||ć|t͡ʃ|
+|b|b||ć|[t͡ʃ](https://en.wikipedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg)|
 |d|d||f|f|
 |g|g||h|h|
-|j|ʑ||k|k|
+|j|[ʑ](https://en.wikipedia.org/wiki/File:Voiced_alveolo-palatal_sibilant.ogg)||k|k|
 |l|l||m|m|
-|n|n||ŋ|ŋ|
-|p|p||r|r|
-|s|s||ś|ʃ|
-|t|t||ṯ|θ|
-|ẗ|ð||v|v|
-|w|w||y|j|
+|n|n||ŋ|[ŋ](https://en.wikipedia.org/wiki/File:Velar_nasal.ogg)|
+|p|p||r|[r](https://en.wikipedia.org/wiki/File:Alveolar_trill.ogg)|
+|s|s||ś|[ʃ](https://en.wikipedia.org/wiki/File:Voiceless_palato-alveolar_sibilant.ogg)|
+|t|t||ṯ|[θ](https://en.wikipedia.org/wiki/File:Voiceless_dental_fricative.ogg)|
+|ẗ|[ð](https://en.wikipedia.org/wiki/File:Voiced_dental_fricative.ogg)||v|v|
+|w|w||y|[j](https://en.wikipedia.org/wiki/File:Palatal_approximant.ogg)|
 |z|z||||
 
 Notice that **Verbum** removes the ‘c’ sound for cat or city as that is a ‘k’ or ‘s’. ‘x’ is also removed along with ‘q’.&nbsp; There are times in **Verbum** when it incorporates English words. Obviously, there are times when those words might use a “c”, “q”, or “x”.&nbsp; In those cases, it is permissible to use phonetic letters to create a similar sound: c (k or s), q (kw), x (ks).
