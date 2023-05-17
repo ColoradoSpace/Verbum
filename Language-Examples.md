@@ -51,7 +51,7 @@ ENGLISH: The Sun shines brightly
 
 VERBUM: shines brightly Sun
 
-**sērādīt feltćē glār**
+**sērādīt feltćō glār**
 ```
 
 ```
@@ -88,7 +88,7 @@ ENGLISH: Lovely Flowers are growing everywhere
 
 VERBUM: are growing everywhere flowers lovely
 
-**rōwānnō jemōnā sētrēt dōbātćū**
+**rōwānnō jemōnā sētrēt dōbātćō**
 ```
 
 ```
@@ -96,9 +96,8 @@ ENGLISH: Directly opposite stands a wonderful place
 
 VERBUM: stands opposite directly place wonderful
 
-**sēdeno jono rūdātćū nājo rākenoćā**
+**sēdeno jono rūdātćō nājo rākenoćō**
 ```
-[Audio Link](https://voca.ro/17OfyAmXHDh3)
 
 
 ```
