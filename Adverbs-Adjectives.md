@@ -40,6 +40,7 @@ Adjectives (-**ćō**)
 |--- |--- |--- |
 |**Suffix**|**Meaning**|**Example**|
 |-able/ible|Capability|Edible  - **dinćō**|
+|-(a/e/o)ry|Condition of|Secondary - **kāpōcō**|
 |-al|Pertaining to|Regional - **vēstōrćō**|
 |-esque|Reminiscent|Picturesque - **gōrūkonćō**|
 |-ful|Notable for|Doubtful - **gōrāfātoćō**|
