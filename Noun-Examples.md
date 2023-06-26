@@ -42,7 +42,7 @@ To better understand how these modifiers impact a noun, we will use the noun mo 
 |7|**ka**|
 |8|**ke**|
 |9|**ku**|
-|10|**sēko**|
+|10|**sēkō**|
 |12|**sēkū**|
 |Teens (20, 30, 40)|-**pū**|
 |Hundreds|-**pē**|
