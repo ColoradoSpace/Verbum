@@ -6,7 +6,9 @@ Adverb use a CVC phonology similar to verbs but can only have a leading consonan
 
 ## Morpheme Modification for Adverbs, Adjectives, Nouns, adn Verbs
 
-Words in Verbum can be convered to Adverbs and Adjectives, or to noun/verb variances, through the use of suffixes.  In Verbum these suffix morphemes are grouped into 3 categories: Noun Suffixes, Verb Suffixes, and Adjective Suffixes.  Any of these can be combined to represt a modify word. In most cases, words do not normally uses the same category of suffix twice, but the instance that a word does do that, we add the number 2 (kā) to the end of the suffix to mean _"double of the suffix category"_.  The tables below show the ENglish suffixes taht relate to the morpheme categories so that users can understand how to build new words.  Remember, in the rules that when the gō- morpheme is added to a verb, it creates a noun that may have an adjective ended implied.  We used examples in other documents to show a standard modification: _work_ to _work_. But for the verb _to Allocate_, its noun equivalent created with the **go**- preffix creates the word _Allocation_. When you look at the Noun table you can can that no other  ending by are modified to create adverbial and adjective meanings using the following morphemes. In some cases, words are created by combining two conceptual infixes together. If they are different, then they just connect as suffixes in the proper order. For example: Alternative – _Alter_, _(n)ate_ [śī], _ive_ [śē].  However, if the two infixes are from the same infix category, then the (-**se**) morpheme is added to mean double or repeat twice. In almost all cases it is possible to tell the order of the infix by the root word.  Again, as an example, _Responsiveness_ really can’t be understood any other way than it is currently written.  [-ive] is the only infix that makes sense in the first order. Then, with [-ive], the only possible choice for the second order in [-ness].  
+Words in Verbum can be converted to Adverbs and Adjectives, or to noun/verb variances, through the use of affixes.  In Verbum these affix morphemes are grouped into 3 categories: Noun Suffixes, Verb Suffixes, and Adjective prefixes.  Any of these can be combined to represt a modify word. In most cases, words do not normally uses the same category of affix twice, but the instance that a word does do that, we add the number 2 (kā) to the end of the suffix to mean _"double of the suffix category"_.  The tables below show the ENglish suffixes taht relate to the morpheme categories so that users can understand how to build new words.  Remember, in the rules that when the gō- morpheme is added to a verb, it creates a noun that may have an adjective ended implied.  We used examples in other documents to show a standard modification: _work_ to _work_. But for the verb _to Allocate_, its noun equivalent created with the **go**- preffix creates the word _Allocation_. When you look at the Noun table you can can that no other  ending by are modified to create adverbial and adjective meanings using the following morphemes. In some cases, words are created by combining two conceptual infixes together. If they are different, then they just connect as suffixes in the proper order. For example: Alternative – _Alter_, _(n)ate_ [śī], _ive_ [śē].  However, if the two infixes are from the same infix category, then the (-**se**) morpheme is added to mean double or repeat twice. In almost all cases it is possible to tell the order of the infix by the root word.  Again, as an example, _Responsiveness_ really can’t be understood any other way than it is currently written.  [-ive] is the only infix that makes sense in the first order. Then, with [-ive], the only possible choice for the second order in [-ness].  
+
+Although the lists below cover the majority of affixes as they related to thier category, in some cases a noun suffix will produce a verb or adjective meaning. In that case the appropriate affix is based on the type of wrd meaning that is created. so the English suffix -al many be listed as a Noun affix, but might create an Adjective meaning. If that is the case, then the Adjective **ćō**- would be used.
 
 ### Nouns (-**śē**)
 
@@ -34,13 +36,14 @@ Words in Verbum can be convered to Adverbs and Adjectives, or to noun/verb varia
 |-ify/fy|Make|Rarely used as Verbs already contain the -ify/fy suffix|
 |-ize|Become|Humanize - **zēsāmośū**|
 
-Adjectives (-**ćō**)
+Adjectives (**ćō**-)
 
 ||||
 |--- |--- |--- |
 |**Suffix**|**Meaning**|**Example**|
 |-able/ible|Capability|Edible  - **dinćō**|
 |-(a/e/o)ry|Condition of|Secondary - **kāpōcō**|
+|-a/ent|Becoming|Competent - **dōtāpćō**|
 |-al|Pertaining to|Regional - **vēstōrćō**|
 |-esque|Reminiscent|Picturesque - **gōrūkonćō**|
 |-ful|Notable for|Doubtful - **gōrāfātoćō**|
