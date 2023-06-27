@@ -53,6 +53,7 @@ Adjectives (**ćō**-)
 |-ive|Having Nature of|Creative - **pānćō**|
 |-less|Without|Ageless - **gōrōbatdūćō**|
 |-y|Characterized by|Smelly - **fedćō**|
+|-ing/-ed|Emotion|Amazing - **ćōrāfōl**|
 
 
 ### Syntax
