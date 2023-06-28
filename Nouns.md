@@ -24,7 +24,7 @@ The following chart show how verbs are modified into nouns. 
 |Result|lī-|Results of...|Game - **līrādek** (to play)|
 |Use|gō-|Use as Noun/Adjective|Work - **gōrādan** (to work)|
 |Location|nā-|Location where ... occurs|Theater - **nārōdōm** (to perform)|
-|Authority|-do|Authoritative use of...|State - **stōrdo** (as in land)|
+|Authority|-gō|Authoritative use of...|State - **stōrgō** (as in land)|
 
 ## Animals (go') gojo [gɑ.ʑɑ]
 
