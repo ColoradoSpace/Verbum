@@ -39,3 +39,4 @@ It should be noted that morphemes are listed as Interior or Exterior. Interior m
 |Previous State|vū-|**vūdē** (Morning)|
 |Future State|vu-|**vudē** (Afternoon)|
 |Study Of|gī-|**gīblōs** (Ecology)|
+
