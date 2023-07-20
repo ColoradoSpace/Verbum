@@ -34,7 +34,8 @@ It should be noted that morphemes are listed as Interior or Exterior. Interior m
 |--- |--- |--- |
 |Name|Morpheme|Example|
 |Proper Noun|gū-|**gūstāsē** (Stacy)|
-|Possessive|mē-|**mēlōrōkumo** (My Pencil)|
+|Possessive - Subject|mē-|**mēlōrōkumo** (Their Pencil)|
+|Possessive - Speaker|-mē|**lōrōkumomē** (My Pencil)|
 |Previous State|vū-|**vūdē** (Morning)|
 |Future State|vu-|**vudē** (Afternoon)|
 |Study Of|gī-|**gīblōs** (Ecology)|
