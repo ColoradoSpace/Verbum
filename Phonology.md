@@ -39,7 +39,7 @@ A quick note about capitalization: there isn’t any in **Verbum**.&nbsp; **Verb
 
 ## Phonotactics
 
-I quick comment about phonotactics in **Verbum**.&nbsp; There isn’t any, or it should be said, **Verbum** includes all phonotactics.&nbsp; There isn’t one specific set of phonotactics rules for **Verbum**.&nbsp; In fact, its not uncommon when listening to verbum that you will hear French, German, Russian, a little Turkish, and even Native American.&nbsp; Because **Verbum** has strict engineered rule about word construction, its not uncommon for certain consonants to be found together in what would normally be a difficult or unlikely phonotactic combination.&nbsp; For this reason, as listed in the rules, **Verbum** is spoken slowly, methodically, and carefully. This gives the speaker and listener time to pronounce and understand the meaning of what is being said.
+A quick comment about phonotactics in **Verbum**.&nbsp; There isn’t any, or it should be said, **Verbum** includes all phonotactics.&nbsp; There isn’t one specific set of phonotactics rules for **Verbum**.&nbsp; In fact, its not uncommon when listening to verbum that you will hear French, German, Russian, a little Turkish, and even Native American.&nbsp; Because **Verbum** has strict engineered rule about word construction, its not uncommon for certain consonants to be found together in what would normally be a difficult or unlikely phonotactic combination.&nbsp; For this reason, as listed in the rules, **Verbum** is spoken slowly, methodically, and carefully. This gives the speaker and listener time to pronounce and understand the meaning of what is being said.
 
 ## The Letter r
 
