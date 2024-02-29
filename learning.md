@@ -4,4 +4,4 @@ The following lessons (still under development) should help guide learners in le
 
 [Top 100 Words](100Words.md)
 
-[Simple Sentences with 100 Words](simple-sentences.md)
+[Language Examples](Language-Examples.md)
