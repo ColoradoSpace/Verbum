@@ -41,18 +41,18 @@ Adjectives (**ćō**-)
 ||||
 |--- |--- |--- |
 |**Suffix**|**Meaning**|**Example**|
-|-able/ible|Capability|Edible  - **dinćō**|
-|-(a/e/o)ry|Condition of|Secondary - **kāpōcō**|
-|-a/ent|Becoming|Competent - **dōtāpćō**|
-|-al|Pertaining to|Regional - **vēstōrćō**|
-|-esque|Reminiscent|Picturesque - **gōrūkonćō**|
-|-ful|Notable for|Doubtful - **gōrāfātoćō**|
-|-ic/ical|Pertaining to|Musical - **lērādomćō**|
-|-ious/ous|Characterized by|Studious - **kēćō**|
-|-ish|Having Quality of|Childish - **wājoćō**|
-|-ive|Having Nature of|Creative - **pānćō**|
-|-less|Without|Ageless - **gōrōbatdūćō**|
-|-y|Characterized by|Smelly - **fedćō**|
+|-able/ible|Capability|Edible  - **ćōdin**|
+|-(a/e/o)ry|Condition of|Secondary - **ćōkāpō**|
+|-a/ent|Becoming|Competent - **ćōdōtāp**|
+|-al|Pertaining to|Regional - **ćōvēstōr**|
+|-esque|Reminiscent|Picturesque - **ćōgōrūkon**|
+|-ful|Notable for|Doubtful - **ćōgōrāfāto**|
+|-ic/ical|Pertaining to|Musical - **ćōlērādom**|
+|-ious/ous|Characterized by|Studious - **ćōkēl**|
+|-ish|Having Quality of|Childish - **ćōwājo**|
+|-ive|Having Nature of|Creative - **ćōpān**|
+|-less|Without|Ageless - **ćōgōrōbatdū**|
+|-y/ly|Characterized by|Smelly - **ćōfed**|
 |-ing/-ed|Emotion|Amazing - **ćōrāfōl**|
 
 
