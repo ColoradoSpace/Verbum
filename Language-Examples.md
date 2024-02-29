@@ -88,7 +88,7 @@ ENGLISH: Lovely Flowers are growing everywhere
 
 VERBUM: are growing everywhere flowers lovely
 
-**rōwānnō jemōnā sētrēt dōbātćō**
+**rōwānnō jemōnā sētrēt ćōdōbāt*
 ```
 
 ```
@@ -96,7 +96,7 @@ ENGLISH: Directly opposite stands a wonderful place
 
 VERBUM: stands opposite directly place wonderful
 
-**sēdeno jono rūdātćō nājo rākenoćō**
+**sēdeno jono ćōrūdāt nājo ćōrākeno**
 ```
 
 
