@@ -309,14 +309,12 @@ Verbs have a special case of Interior morpheme called a Variation.&nbsp; They ar
 ||||
 |--- |--- |--- |
 |**Meaning**|**Morpheme**|**Example**|
-|Inclusive All|sā-|**sālan** (We All See)|
-|Exclusive You|-sā|**lansā** (We Saw, You didn't)|
 |Action Over Short Time|-dō|**rōlandō** (Glance)|
 |Action Over Time|-dū|**rōlandū** (Stare)|
 |Action Over Long Time|-dā|**rōlandā** (Watch)|
                               
-## Conceptual Infixes
+## Use of Adjective Morphemes for Verb Definition
 
-Although not as extensive as nouns infixes, verbs can use morphemes to help extend the library of verbs as explained above.&nbsp; Adverbial morphemes can be combined to make new meanings when the adverbial morpheme is used as a **PREFIX** instead of a suffix. For Example, if we take _to Kill_ (**bān**) and add the [_to Become or be in the State of Being_ (-**śē**), we could interpret this as _to Neutralize_ (**śēbān**). Also, the word would be used in the Verb location of the sentence suggesting this is to be interpreted as a verb with this meaning and not an adverb or adjective. 
+Although not as extensive as nouns infixes, verbs can use morphemes to help extend the library of verbs as explained above.&nbsp; Adjective/Adverbial morphemes can be combined to make new meanings when the adverbial morpheme is used as a **PREFIX** instead of a suffix. For Example, if we take _to Kill_ (**bān**) and add the [_to Become or be in the State of Being_ (-**śē**), we could interpret this as _to Neutralize_ (**śēbān**). Also, the word would be used in the Verb location of the sentence suggesting this is to be interpreted as a verb with this meaning and not an adverb or adjective. 
 
 
