@@ -2,7 +2,7 @@
 
 * **Verbum** is a Verb-centric language meaning that any word that can be a verb, is almost always a verb.&nbsp; This means that when verbs and nouns are the same word (<em>work</em> and <em>work</em>), in **Verbum** the noun has to be qualified as a noun through the use of a morpheme (**gō**-). So, for example in **Verbum** the verb <em>to work</em> (**rādan**) in the form of a noun would be **gōrādan**
 
-* If when using (**gō**-) to create a noun from a verb and that noun is a position or defined as someone who is that verb, then the (**sō**-) prefix morpheme takes precedence over the (**gō**-).&nbsp; As in <em>to Author</em> (**rōpal**) and <em>An Author</em> (**sōrōpal**). However, there are times when the definition of the words means something different when in context of being a <em>Thing</em>. In that case **go**- and **so**- can exist, such as for the word <em>Guide</em> (**sōrādān**) as in a person and <em>Guide</em> (**gōrādān**) as in a measure/line/rule
+* If when using (**gō**-) to create a noun from a verb and that noun is a position or defined as someone who is that verb, then the (**sō**-) prefix morpheme takes precedence over the (**gō**-).&nbsp; As in <em>to Author</em> (**rōpal**) and <em>An Author</em> (**sōrōpal**). However, there are times when the definition of the words means something different when in context of being a <em>Thing</em>. In that case **gō**- and **sō**- can exist, such as for the word <em>Guide</em> (**sōrādān**) as in a person and <em>Guide</em> (**gōrādān**) as in a measure/line/rule
 
 * Pronunciation is always on the root verb or noun. So going back to the word for <em>work</em>, you would stress the root verb: **rā DAN**
 
