@@ -105,8 +105,6 @@ _To See_ (**lan**)
 
 Here are some other examples:
 
-"_Used to Facilitate See(ing) through_" – _Window_ (**lōlanṯā**)
-
 "_Used to Facilitate See(ing) out_" – _Binoculars_ (**ṯolōlan**)
 
 "_Used to Facilitate See(ing) in(side)_" – _Microscope_ (**ṯōlōlan**)
