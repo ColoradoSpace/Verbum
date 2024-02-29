@@ -8,7 +8,7 @@
 
 * **Verbum** is spoken in a slower more methodical manner to give the speaker time to say each syllable and for the listener to comprehend what is being said.&nbsp; This is especially useful when difficult phonotactic combinations within words occur in Verbum because of construction rules.&nbsp; Examples are combinations like ‘bv’, ‘tf’, and ‘vz’.
 
-* The language order for **Verbum** is Verb-Subject-Object (VSO), unlike English which is SVO.&nbsp; For any SVO speaker this would make the sentence sound like a question. In **Verbum** questions are formed with a morpheme to clarify the intent of the sentence.&nbsp; We will get to that morpheme later
+* The language order for **Verbum** is Verb-Subject-Object (VSO), unlike English which is SVO.&nbsp; For any SVO speaker this would make the sentence sound like a question. In **Verbum** questions are formed with a morpheme to clarify the intent of the sentence.&nbsp; We add the **mō-** morpheme to the verb to express the sentence is in question form.
 
 * Although not common, it can happen where morphemes are combined with other morphemes or words where two vowels are placed together.&nbsp; This is not usually allowed so to clarify what is being said a **‘** is placed between the vowels. We will show it later, but an example would be the word <em>these</em> (**sē’ūs**)&nbsp;
 
