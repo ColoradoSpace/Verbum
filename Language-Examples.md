@@ -7,7 +7,7 @@ ENGLISH: The Bird Sings
 
 VERBUM: sings bird
 
-**Sun sēgōgol de’gojo**
+**sēsun gōgol de’gojo**
 ```
 
 ```
