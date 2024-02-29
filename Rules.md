@@ -12,7 +12,7 @@
 
 * Although not common, it can happen where morphemes are combined with other morphemes or words where two vowels are placed together.&nbsp; This is not usually allowed so to clarify what is being said a **‘** is placed between the vowels. We will show it later, but an example would be the word <em>these</em> (**sē’ūs**)&nbsp;
 
-* All morphemes have meanings.&nbsp; When you want to use that meaning as a word in **Verbum**, the morpheme is combined with the word for <em>It </em>(**jo**) based on the affix location of the morpheme.&nbsp; An example is the morpheme for <em>Child of</em> (**wā-). **So, to create the word <em>Child</em> you add <em>It</em> as a suffix, **wājo**. Similarly, to create the word for <em>Future</em>, we use <em>It</em> and the <em>Future Tense </em>&nbsp;morpheme (-**nē**) to get **jonē**.
+* All morphemes have meanings.&nbsp; When you want to use that meaning as a word in **Verbum**, the morpheme is combined with the word for <em>It </em>(**jo**) based on the affix location of the morpheme.&nbsp; An example is the morpheme for <em>Child of</em> (**wā-**). **So, to create the word <em>Child</em> you add <em>It</em> as a suffix, **wājo**. Similarly, to create the word for <em>Future</em>, we use <em>It</em> and the <em>Future Tense </em>&nbsp;morpheme (-**nē**) to get **jonē**.
 
 * When words are created in **Verbum** through morphology, the word is always expected to take on the most common, simplest meaning.&nbsp; Any other understanding of the word is explained with the Scale morphemes to means a lesser or greater example of the word.&nbsp; <em>Car</em> for example would be considered a small sedan (Corolla, Civic, etc.)
 
