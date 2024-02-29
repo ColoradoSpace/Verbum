@@ -26,21 +26,21 @@ The following chart show how verbs are modified into nouns. 
 |Location|nā-|Location where ... occurs|Theater - **nārōdōm** (to perform)|
 |Authority|-gō|Authoritative use of...|State - **stōrgō** (as in land)|
 
-## Animals (go') gojo [gɑ.ʑɑ]
+## Animals (go-) gojo [gɑ.ʑɑ]
 
 Animals (gojo means Animal) are a special case of noun that uses a qualifier prior to a Proper Noun to cover each animal which can be represented by its standard name or Latinized equivalent translated into **Verbum** phonology.  Animals use the (**go’**- the ‘ causes a gutteral pause) morpheme prefix to notify listeners that the next word or set of words is an animal so that no confusion occurs if for example an animal name coincides with a verb or noun in **Verbum**, such as _dog_. As mentioned, Animal names use **Verbum** phonology. For example: _Giraffe_ become **jiraf** which is the closest sound. The full name for a _Giraffe_ would be **go’jiraf**. This is a little different when we consider _Gibbon_. The G changes sound so in **Verbum** it would be **go’gibon**. Again, this demonstrates the importance of the prefix morpheme.  Also, due to **Verbum** VSO order rules, descriptors for animals, or noun in general for that matter, are placed after the Object. So, in the case of something like a _Monitor Lizard_ the proper notation would be: **go’lizord monotōr** or _Great White Shark_, **go’shork wīt grāt.**
 
 Bird is referred to as _Flight Animal_.  **gōgol de’gojo**
 
-## Insects (ga'-) gajo [gæ.ʑɑ]
+## Insects (ga-) gajo [gæ.ʑɑ]
 
 So, like the other categories here, **gajo** means _Insects_ while **zōgajo** means Informal _insect_ or _Bug_.
 
-## Reptiles & Amphibians (ge') gejo [gɛ.ʑɑ]
+## Reptiles & Amphibians (ge-) gejo [gɛ.ʑɑ]
 
 While _Reptile_ is **gejo**, _Amphibian_ is referred to as “Water Retile”, **swam de’gejo**. It is also allowed to use a proper name here.  So, _Amphibian_ can be naturalize with the Proper Noun to get, **gū’amfibē’an** as that is a class of animal.
 
-## Food (gi'-)
+## Food (gi-)
 
 The extensiveness of food and food type necessitates a morphological construction for food similar to Animals.  Food is rewriting in **Verbum** phonology with the prefix **gi’-** added. The ‘ causes the same guttural stop like with animals.  For example: _Bread_ (**gi’bred**), _Soup_ (**gi’sūp**), and _Steak_ (**gi’stāk**)
 
