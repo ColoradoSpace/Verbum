@@ -23,3 +23,5 @@
 * As **Verbum** is a language where meaning is important, when a word can be interpreted as a Verb, Noun, and or Adjective/Adverb, then it will have a word in **Verbum** for each meaning. An Example is <em>Well</em>, as in hole in ground, or a feeling, or an adverb as in “well, he said.”
 
 * Root words take precedent when creating modified words.&nbsp; For example, <em>Gorge</em> is a verb and a <em>Gorge</em> [noun] could be easily modified by the **go-** morpheme.&nbsp; However, <em>Gorge</em> is in reference to <em>Land</em> which is a Root Noun, so the Noun takes precedence when creating a meaning for <em>Gorge</em>.
+
+* There is no Implied Subjects in ***Verbum**.  You have to add the Subject (Me, You, They, Them, etc.) to the sentence when writing and speaking.  For Example.  *"What is the chance of choosing a red card?" becomes *"What is the chance of [you] choosing a red card?"*
