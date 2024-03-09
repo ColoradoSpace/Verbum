@@ -117,8 +117,8 @@ VERBUM: are growing everywhere flowers lovely
 
 **rōwānnō jemōnā sētrēt ćōdōbāt*
 
-[roʊ weɪn noʊ ʑɛ mɑ neɪ si: tri:t t͡ʃoʊ doʊ beɪt]
-Act_Of.Increase.Present_Progressive (Are Growing) 
+[ roʊ    weɪn            noʊ                        ʑɛ      moʊ        neɪ                si: tri:t     t͡ʃoʊ     doʊ   beɪt]
+Act_Of.Increase.Present_Progressive (Are Growing) Every.As_Question.Place_Of (Everywhere) PLU.Flower Adjective.Intense.Like
 ```
 
 ```
@@ -127,15 +127,21 @@ ENGLISH: Directly opposite stands a wonderful place
 VERBUM: stands opposite directly place wonderful
 
 **sēdeno jono ćōrūdāt nājo ćōrākeno**
+
+[si: dɛn      ɑ        ʑɑ        nɑ         t͡ʃoʊ        ru:   deɪt                neɪ       ʑɑ       t͡ʃoʊ       reɪ     kɛn       ɑ]
+PLU. Sit.Opposite_Of As_Word.Opposite_of Adjective.Outcome_Of.Plan (Directly) Place_Where.As_Word Adjective.Process_Of.Solve.Opposite_Of (Wonder)
 ```
 
 
 ```
 ENGLISH: Yesterday, the oldest dirl in the village lost her kitten
 
-VERBUM: lost yesterday girl oldest in villaeg her kitten
+VERBUM: lost yesterday girl oldest in village kitten Hers
 
-**nēwāto nēdē yāmono vobesto tōvēnārēpil jūlno mēgo'kat de'wājo
+**nēwāto nēdē yāmono voberdo tōvēnārēpil mēgo'kat de'wājo jūlno
+
+[ni: weɪt ɑ ni: di: yeɪ mɑ vɑ bɛst ɑ toʊ vi: neɪ ri: pɪl ju:l nɑ mi: gɑ' kæt dɛ' weɪ ʑɑ]
+PST.Find.Opposite_Of PST.Day Lower_Rank/Version.Man.Opposite_of Greatest_Extent.Young.Opposite_of (oldest) Motion_In.Less_Extent.Place_Where.Authoritive_Use.
 ```
 [Audio Link](https://voca.ro/11Wp5hhJPuqF)
 
