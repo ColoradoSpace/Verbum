@@ -116,6 +116,9 @@ ENGLISH: Lovely Flowers are growing everywhere
 VERBUM: are growing everywhere flowers lovely
 
 **rōwānnō jemōnā sētrēt ćōdōbāt*
+
+[roʊ weɪn noʊ ʑɛ mɑ neɪ si: tri:t t͡ʃoʊ doʊ beɪt]
+Act_Of.Increase.Present_Progressive (Are Growing) 
 ```
 
 ```
