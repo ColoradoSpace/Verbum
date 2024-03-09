@@ -54,6 +54,9 @@ ENGLISH: The Sun will shine tomorrow
 VERBUM: will shine Sun tomorrow
 
 **rādītnē glār dēnē**
+
+[   reɪ     daɪt ni:  gleɪr di ni:]
+Process_Of.Light.FUT  Sun  Day.FUT]
 ```
 [Audio Link](https://voca.ro/12I9t7bBppZ7)
 
@@ -63,7 +66,10 @@ ENGLISH: The Sun shines brightly
 
 VERBUM: shines brightly Sun
 
-**sērādīt feltćō glār**
+**sērādīt ćōfelt glār**
+
+[si:    reɪ    daɪt    t͡ʃoʊ    fɛlt  glaɪr]
+PLU.Process_Of.Light Adjective.Bright Sun
 ```
 
 ```
@@ -72,6 +78,9 @@ ENGLISH: All the people shouted
 VERBUM: shouted people all
 
 **nēvesan sāsēyūmo**
+
+[ni: vɛ sæn seɪ si: ju: mɑ]
+PST.Great_Extent.Say (Shouted) All.PLU.
 ```
 [Audio Link](https://voca.ro/1azsaqbgf7CI)
 
