@@ -79,8 +79,8 @@ VERBUM: shouted people all
 
 **nēvesan sāsēyūmo**
 
-[ni: vɛ sæn seɪ si: ju: mɑ]
-PST.Great_Extent.Say (Shouted) All.PLU.
+[ni:     vɛ      sæn           seɪ si:       ju:       mɑ]
+PST.Great_Extent.Say (Shouted) All.PLU.Genre/Family_Of.Man]
 ```
 [Audio Link](https://voca.ro/1azsaqbgf7CI)
 
@@ -91,6 +91,9 @@ ENGLISH: The rain came down
 VERBUM: came down rain
 
 **nēgano zōro gōrūdik**
+
+[ni: gæn     ɑ     zoʊr     ɑ        goʊ       ru:    dɪk]
+PST. Go.Opposite_Of Up.Opposite_of As_Noun.Outcome_of.Pour
 ```
 [Audio Link](https://voca.ro/147vIeUlIWkB)
 
@@ -101,6 +104,9 @@ ENGLISH: The two boys are working together
 VERBUM: are working together boys two
 
 **rādannō jowū sēyāmo kā**
+
+[   reɪ    dæn         noʊ          ʑɑ         wu:       si:        yeɪ         mo keɪ]
+Process_of.Do.Present_Progressive As_Word.Joint_Relation PLU.Lower_Version/Rank.Man Two
 ```
 
 
