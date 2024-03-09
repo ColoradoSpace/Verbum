@@ -8,6 +8,9 @@ ENGLISH: The Bird Sings
 VERBUM: sings bird
 
 **sēsun gōgol de’gojo**
+
+[si: sʊn    goʊ  gɑl                dɛ'        gɑ     ʑɑ]
+PLU.Sing As_Noun.Fly (flight) Word_Connector.Animal.As_Word
 ```
 
 ```
@@ -16,6 +19,9 @@ ENGLISH: The Children Play
 VERBUM: play children
 
 **rādēk sēwājo**
+
+[   reɪ     di:k         si:    weɪ     ʑɑ]
+Process_Of.Frolic (Play) PLU.Child_of.As_Word
 ```
 
 ```
@@ -24,6 +30,9 @@ ENGLISH: The Baby Laughed
 VERBUM: laughed baby
 
 **nērūfōn vōwājo**
+
+[ni:     ru:   foʊn                   voʊ          weɪ     ʑɑ]
+PST.Outcome_Of.Smile (Laughed) Smallest_Version.Child_Of.As_Word
 ```
 [Audio Link](https://voca.ro/1keLR2IOgYsW)
 
@@ -34,6 +43,9 @@ ENGLISH: The Sun is Shining
 VERBUM: is shinging Sun
 
 **rādītnō glār**
+
+[   reɪ    daɪt         noʊ                       gleɪr]
+Process_Of.Light.Present_Progressive (is Shinging) Sun
 ```
 
 ```
