@@ -6,6 +6,8 @@ The following documents will explain the basic rules and process of how VERBUM i
 
 [General Language Rules](Rules.md)
 
+[Sentence Order](Sentence_Order.md)
+
 [Common Morphemes](Common_Morphemes.md)
 
 [Pronouns](Pronouns.md)
