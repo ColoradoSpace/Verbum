@@ -25,3 +25,5 @@ The following documents will explain the basic rules and process of how VERBUM i
 [Adverbs & Adjectives](Adverbs-Adjectives.md)
 
 [Conjunctions & Prepositions](Conj-Prep.md)
+
+[Dictionary](Dictionary.md)
