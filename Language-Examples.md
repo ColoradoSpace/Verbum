@@ -233,12 +233,12 @@ ENGLISH: Many little girls with wreaths of flowers on their heads danced around 
 
 VERBUM: Danced around girls little many with flower rings on head theirs the May-pole
 
-nēzērōdēk zag sēyāmono geśo goŋo trēt de'gōdomṯī tolūhut mēsējūkē kōdēvāstōn de'lādīm
+nēzērōdēk zag sēyāmono geśo goŋo trēt de'gōdomtī tolūhut mēsējūkē kōdēvāstōn de'lādīm
 
 [ni:  zi:         roʊ       di:k    zæg  si:     jeɪ    mɑ       nɑ      gɛʃ       ɑ      gɑŋ      ɑ]
 PST.Formal.Physical_Act_of.Frolic around PLU.Lower_Rank.Man.Opposite_of great.Opposite_of few.Opposite_of 
 
-[tri:t       dɛ'        goʊ    dɑm     θaɪ         tɑ       lu:       hʊt     mi: si: ʑu:   ki:
+[tri:t       dɛ'        goʊ    dɑm     taɪ         tɑ       lu:       hʊt     mi: si: ʑu:   ki:
 flower.Word_Connector.As_Noun.Ring.Motion_with Motion_on.That_Which.Contains POSS.PLU.1PS.As_third
 
 [koʊ  di:    veɪ   stoʊn                          dɛ'             leɪ      daɪm 
