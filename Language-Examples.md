@@ -145,8 +145,11 @@ VERBUM: lost yesterday girl oldest in village kitten her's
 
 nēwāto nēdē yāmono voberdo tōvēnārēpil go'kat de'wājo mējūlno
 
-[ni: weɪt ɑ ni: di: yeɪ mɑ nɑ vɑ bɛrd ɑ toʊ vi: neɪ ri: pɪl gɑ'kæt dɛ'weɪ ʑɑ mi: ju:l nɑ]
-PST.Find.Opposite_Of PST.Day Lower_Rank/Version.Man.Opposite_of Greatest_Extent.Young.Opposite_of (oldest) Motion_In.Less_Extent.Place_Where.Authoritive_Use Animal.cat.Word_Connector.Child_Of.As_Word POSS.him.Opposite_of
+[ni: weɪt      ɑ     ni: di:      yeɪ    mɑ       nɑ          vɑ        bɛrd      ɑ] 
+PST.Find.Opposite_Of PST.Day Lower_Rank.Man.Opposite_of Greater_Extent.Young.Opposite_of (oldest)
+
+[   toʊ      vi:          neɪ             ri:        pɪl     gɑ'  kæt       dɛ'         weɪ     ʑɑ    mi: ju:l    nɑ]
+Motion_In.Less_Extent.Place_Where.Authoritive_Use.Populate Animal.cat.Word_Connector.Child_Of.As_Word POSS.him.Opposite_of
 ```
 
 [Audio Link](https://voca.ro/11Wp5hhJPuqF)
@@ -159,9 +162,8 @@ VERBUM: laughed man kind old pleasantly
 
 nērūfōn mo weldo berdo ćōlend
 
-[ni: ru: foʊn mɑ wɛld ɑ bɛrd ɑ t͡ʃoʊ lɛnd]
-
-PST.Outcome_Of.Smile man kind young.Opposite_of Adjective.pleasant
+[ni:    ru:    foʊn  mɑ  wɛld       ɑ      bɛrd        ɑ        t͡ʃoʊ    lɛnd]
+PST.Outcome_Of.Smile man nasty.Opposite_of young.Opposite_of Adjective.pleasant
 ```
 
 
@@ -172,8 +174,7 @@ VERBUM: opened slowly door great
 
 nērādoko ćōnāro lārādoko geś
 
-[ni: reɪ dɑk ɑ t͡ʃoʊ neɪr ɑ leɪ reɪ dɑk ɑ gɛʃ]
-
+[ni:    reɪ    dɑk      ɑ          t͡ʃoʊ   neɪr      ɑ            leɪ          reɪ    dɑk       ɑ       gɛʃ]
 PST.Process_of.Lock.Opposite_of Adjective.fast.Opposite_of That.Which.You.Process_of.Lock.Opposite_of great
 ```
 
@@ -185,9 +186,8 @@ VERBUM: has rolled away ball baby's
 
 nōnēgon yēd lātop mēvōwājo
 
-[noʊ ni: gɑn ji:d leɪ tɑp mi: voʊ weɪ ʑɑ]
-
-Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Rank.Child_of.As_word
+[     noʊ       ni: gɑn  ji:d       leɪ       tɑp   mi:      voʊ        weɪ      ʑɑ]
+Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Extent.Child_of.As_word
 ```
 
 
@@ -196,10 +196,9 @@ ENGLISH: This mist will probably clear away
 
 VERBUM: will probably clear away mist this
 
-nōnēgon yēd lātop mēvōwājo
+bēpennē yēd gōvārūdik ūs
 
-[noʊ ni: gɑn ji:d leɪ tɑp mi: voʊ weɪ ʑɑ]
-
-Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Rank.Child_of.As_word
+[bi:  pɛn  ni: ji:d   goʊ       veɪ ru: dɪk u:s]
+COND.clear.FUT away As_Noun.lesser_Extent.Outcome_of.pour this
 ```
 
