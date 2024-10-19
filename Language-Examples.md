@@ -110,7 +110,7 @@ VERBUM: are working together boys two
 rādannō jowū sēyāmo kā
 
 [   reɪ    dæn         noʊ          ʑɑ         wu:       si:        yeɪ         mo  keɪ]
-Process_of.Do.Present_Progressive As_Word.Joint_Relation PLU.Lower_Version/Rank.Man Two
+Process_of.Do.Present_Progressive As_Word.Joint_Relation PLU.Lower_Rank.Man Two
 ```
 
 
@@ -175,7 +175,7 @@ VERBUM: opened slowly door great
 nērādoko ćōnāro lārādoko geś
 
 [ni:    reɪ    dɑk      ɑ          t͡ʃoʊ   neɪr      ɑ            leɪ          reɪ    dɑk       ɑ       gɛʃ]
-PST.Process_of.Lock.Opposite_of Adjective.fast.Opposite_of That.Which.You.Process_of.Lock.Opposite_of great
+PST.Process_of.Lock.Opposite_of Adjective.fast.Opposite_of That_Which_You.Process_of.Lock.Opposite_of great
 ```
 
 
@@ -187,7 +187,7 @@ VERBUM: has rolled away ball baby's
 nōnēgon yēd lātop mēvōwājo
 
 [     noʊ       ni: gɑn  ji:d       leɪ       tɑp   mi:      voʊ        weɪ      ʑɑ]
-Present_Perfect.PST.roll away That.Which.You.Throw POSS.Least_Extent.Child_of.As_word
+Present_Perfect.PST.roll away That_Which_You.Throw POSS.Least_Extent.Child_of.As_word
 ```
 
 
@@ -207,8 +207,40 @@ ENGLISH: On a sunny morning in June, we started for the mountains
 
 VERBUM: started we in June on morning sunny towards the mountains
 
-nērōdūm sējū tōleś zēstōndēś tovūdē ćōzēstor tāsēlārōgol
+nērōdūm sējū tōleś zēstōndēś tovūdē ćōzēstor tāsēlādud
 
-[ni: roʊ du:m si: ʑu: toʊ lɛʃ zi: stoʊn di:ʃ tɑ vu: di: t͡ʃoʊ zi: stɑr teɪ si: leɪ roʊ gɑl]
-PST.Physical_Act_of.Begin PLU.1PS inward.middle 
+[ni:     roʊ        du:m   si: ʑu:    toʊ    lɛʃ     zi:  stoʊn   di:ʃ                 tɑ          vu:      di:]
+PST.Physical_Act_of.Begin PLU.1PS Motion_in.middle Formal.Planet.period "Mid Year" Motion_on.Previous_State.Day
+
+[  t͡ʃoʊ    mi:   zi:  stɑr      teɪ       si:       leɪ       dʊd]
+Adjective.POSS.Formal.star Motion_towards.PLU.That_Which_You.Climb
+```
+
+```
+ENGLISH: Our friends from New York will drive towards home tomorrow
+
+VERBUM: will drive friends ours toward home tomorrow
+
+dānnē sēbātsō mēsējū tānārōban dēnē
+
+[deɪn ni: si: deɪt         soʊ      mi: si: ʑu:       teɪ             neɪ             roʊ       bæn  di: ni:]
+Drive.FUT PLU.Like.One_affected_by POSS.PLU.1PS Motion_towards.Place_Where_You.Physical_Act_of.Being Day.FUT
+
+```
+
+```
+ENGLISH: Many little girls with wreaths of flowers on their heads danced around the May-pole
+
+VERBUM: Danced around girls little many with flower rings on head theirs the May-pole
+
+nēzērōdēk zag sēyāmono geśo goŋo trēt de'gōdomṯī tolūhut mēsējūkē kōdēvāstōn de'lādīm
+
+[ni:  zi:         roʊ       di:k    zæg  si:     jeɪ    mɑ       nɑ      gɛʃ       ɑ      gɑŋ      ɑ]
+PST.Formal.Physical_Act_of.Frolic around PLU.Lower_Rank.Man.Opposite_of great.Opposite_of few.Opposite_of 
+
+[tri:t       dɛ'        goʊ    dɑm     θaɪ         tɑ       lu:       hʊt     mi: si: ʑu:   ki:
+flower.Word_Connector.As_Noun.Ring.Motion_with Motion_on.That_Which.Contains POSS.PLU.1PS.As_third
+
+[koʊ  di:    veɪ   stoʊn                          dɛ'             leɪ      daɪm 
+Five.Day_of.Lesser.Planet (moon_day "Month").Word_Connector.That_Which_You.Raise
 ```
