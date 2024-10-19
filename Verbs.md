@@ -231,12 +231,12 @@ Conjugation in **Verbum** is straight forward but uses a number of derivation mo
 ||
 |--- |
 |**FUTURE CONDITIONAL (bē- -nē) bēlannē**|
-|I may See|
-|You may See|
-|He/She/It may See|
-|We may See|
-|You may See|
-|They may See|
+|I may/will probably See|
+|You may/will probably See|
+|He/She/It may/will probably See|
+|We ma/will probablyy See|
+|You may/will probably See|
+|They may/will probably See|
 
 ||
 |--- |
