@@ -1,6 +1,6 @@
 # Pronouns
 
-The chart below covers the common pronouns. When looking at the Pronoun list you will notice the use of the Opposite morpheme when using the pronoun (**jū**) for I and me which becomes (**jūno**) referring to “if not ME, then YOU”, the opposite of me. Another special morpheme and the only one of its kind because if of its use, means the Self (-**tēr**). We also make use of the Plural (**sē**-) in Pronouns, and the possessive of a proper noun (**mē**-).
+The chart below covers the common pronouns. When looking at the Pronoun list you will notice the use of the Opposite morpheme when using the pronoun (**jū**) for I and me which becomes (**jūno**) referring to “if not ME, then YOU”, the opposite of me. Another special morpheme and the only one of its kind because of its use, means the Self (-**tēr**). We also make use of the Plural (**sē**-) in Pronouns, and the possessive of a proper noun (**mē**-).
 
 ### First Person Singular
 
