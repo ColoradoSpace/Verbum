@@ -187,6 +187,19 @@ nōnēgon yēd lātop mēvōwājo
 
 [noʊ ni: gɑn ji:d leɪ tɑp mi: voʊ weɪ ʑɑ]
 
-PST.Process_of.Lock.Opposite_of Adjective.fast.Opposite_of That.Which.You.Process_of.Lock.Opposite_of great
+Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Rank.Child_of.As_word
+```
+
+
+```
+ENGLISH: This mist will probably clear away
+
+VERBUM: will probably clear away mist this
+
+nōnēgon yēd lātop mēvōwājo
+
+[noʊ ni: gɑn ji:d leɪ tɑp mi: voʊ weɪ ʑɑ]
+
+Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Rank.Child_of.As_word
 ```
 
