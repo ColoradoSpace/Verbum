@@ -105,7 +105,7 @@ VERBUM: are working together boys two
 
 **rādannō jowū sēyāmo kā**
 
-[   reɪ    dæn         noʊ          ʑɑ         wu:       si:        yeɪ         mo keɪ]
+[   reɪ    dæn         noʊ          ʑɑ         wu:       si:        yeɪ         mo  keɪ]
 Process_of.Do.Present_Progressive As_Word.Joint_Relation PLU.Lower_Version/Rank.Man Two
 ```
 
@@ -129,19 +129,30 @@ VERBUM: stands opposite directly place wonderful
 **sēdeno jono ćōrūdāt nājo ćōrākeno**
 
 [si: dɛn      ɑ        ʑɑ        nɑ         t͡ʃoʊ        ru:   deɪt                neɪ       ʑɑ       t͡ʃoʊ       reɪ     kɛn       ɑ]
-PLU. Sit.Opposite_Of As_Word.Opposite_of Adjective.Outcome_Of.Plan (Directly) Place_Where.As_Word Adjective.Process_Of.Solve.Opposite_Of (Wonder)
+PLU.Sit.Opposite_Of As_Word.Opposite_of Adjective.Outcome_Of.Plan (Directly) Place_Where.As_Word Adjective.Process_Of.Solve.Opposite_Of (Wonder)
 ```
 
 
 ```
-ENGLISH: Yesterday, the oldest dirl in the village lost her kitten
+ENGLISH: Yesterday, the oldest girl in the village lost her kitten
 
-VERBUM: lost yesterday girl oldest in village kitten Hers
+VERBUM: lost yesterday girl oldest in village her kitten
 
-**nēwāto nēdē yāmono voberdo tōvēnārēpil mēgo'kat de'wājo jūlno
+**nēwāto nēdē yāmono voberdo tōvēnārēpil jūlno mēgo'kat de'wājo 
+
+[ni: weɪt ɑ ni: di: yeɪ mɑ nɑ vɑ bɛrd ɑ toʊ vi: neɪ ri: pɪl ju:l nɑ mi: gɑ' kæt dɛ' weɪ ʑɑ]
+PST.Find.Opposite_Of PST.Day Lower_Rank/Version.Man.Opposite_of Greatest_Extent.Young.Opposite_of (oldest) Motion_In.Less_Extent.Place_Where.Authoritive_Use him.Opposite_of POSS.Animal.cat.Word_Connector.Child_Of.As_Word
+```
+[Audio Link](https://voca.ro/11Wp5hhJPuqF)
+
+
+...
+ENGLISH: The kind old man laughed pleasently
+
+VERBUM: laughed man kind old pleasently
+
+**nērūfōn mɑ weldo berdo lend
 
 [ni: weɪt ɑ ni: di: yeɪ mɑ vɑ bɛst ɑ toʊ vi: neɪ ri: pɪl ju:l nɑ mi: gɑ' kæt dɛ' weɪ ʑɑ]
 PST.Find.Opposite_Of PST.Day Lower_Rank/Version.Man.Opposite_of Greatest_Extent.Young.Opposite_of (oldest) Motion_In.Less_Extent.Place_Where.Authoritive_Use.
 ```
-[Audio Link](https://voca.ro/11Wp5hhJPuqF)
-
