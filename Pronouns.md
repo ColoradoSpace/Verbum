@@ -16,7 +16,7 @@ The chart below covers the common pronouns. When looking at the Pronoun list you
 |--- |--- |--- |--- |--- |--- |
 ||**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|you|you|your|yours|yourself|
-|Verbum|jūno|jūno|mējūno|mējūno|jūnotēr|
+|Verbum|jūno|jūno|mējūno|mējūno|mējūnotēr|
 
 ### Third Person Singular
 
@@ -24,19 +24,19 @@ The chart below covers the common pronouns. When looking at the Pronoun list you
 |--- |--- |--- |--- |--- |--- |
 |**Masculine**|**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|he|him|his|his|himself|
-|Verbum|jūl|jūl|mējūl|mējūl|jūltēr|
+|Verbum|jūl|jūl|mējūl|mējūl|mējūltēr|
 
 |||||||
 |--- |--- |--- |--- |--- |--- |
 |**Feminine**|**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|she|her|her|hers|herself|
-|Verbum|jūlno|jūlno|jūlno|mējūlno|jūlnotēr|
+|Verbum|jūlno|jūlno|jūlno|mējūlno|mējūlnotēr|
 
 |||||||
 |--- |--- |--- |--- |--- |--- |
 |**Neuter**|**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|it/thing|it/thing|its|its|itself|
-|Verbum|jo|jo|mējo|mējo|jotēr|
+|Verbum|jo|jo|mējo|mējo|mējotēr|
 
 ### First Person Plural
 
