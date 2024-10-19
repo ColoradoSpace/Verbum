@@ -187,7 +187,7 @@ VERBUM: has rolled away ball baby's
 nōnēgon yēd lātop mēvōwājo
 
 [     noʊ       ni: gɑn  ji:d       leɪ       tɑp   mi:      voʊ        weɪ      ʑɑ]
-Present_Perfect.PST.roll away That.Which.You.Throw POSS.Lesser_Extent.Child_of.As_word
+Present_Perfect.PST.roll away That.Which.You.Throw POSS.Least_Extent.Child_of.As_word
 ```
 
 
@@ -198,7 +198,17 @@ VERBUM: will probably clear away mist this
 
 bēpennē yēd gōvārūdik ūs
 
-[bi:  pɛn  ni: ji:d   goʊ       veɪ ru: dɪk u:s]
+[bi:  pɛn  ni: ji:d   goʊ       veɪ           ru:    dɪk  u:s]
 COND.clear.FUT away As_Noun.lesser_Extent.Outcome_of.pour this
 ```
 
+```
+ENGLISH: On a sunny morning in June, we started for the mountains
+
+VERBUM: started we in June on morning sunny towards the mountains
+
+nērōdūm sējū tōleś zēstōndēś tovūdē ćōzēstor tāsēlārōgol
+
+[ni: roʊ du:m si: ʑu: toʊ lɛʃ zi: stoʊn di:ʃ tɑ vu: di: t͡ʃoʊ zi: stɑr teɪ si: leɪ roʊ gɑl]
+PST.Physical_Act_of.Begin PLU.1PS inward.middle 
+```
