@@ -52,7 +52,7 @@ The chart below covers the common pronouns. When looking at the Pronoun list you
 |--- |--- |--- |--- |--- |--- |
 ||**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|you|you|your|yours|yourselves|
-|Verbum|sējūno|sējūno|sēmējūno|sēmējūno|sējūnotēr|
+|Verbum|sējūno|sējūno|mēsējūno|mēsējūno|mēsējūnotēr|
 
 ### Third Person Plural
 
