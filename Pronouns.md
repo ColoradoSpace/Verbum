@@ -44,7 +44,7 @@ The chart below covers the common pronouns. When looking at the Pronoun list you
 |--- |--- |--- |--- |--- |--- |
 ||**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|we|us|our|ours|ourselves|
-|Verbum|sējū|sējū|mēsējū|mēsējū|sējūtēr|
+|Verbum|sējū|sējū|mēsējū|mēsējū|mēsējūtēr|
 
 ### Second Person Plural
 
@@ -60,7 +60,7 @@ The chart below covers the common pronouns. When looking at the Pronoun list you
 |--- |--- |--- |--- |--- |--- |
 ||**Subject**|**Object**|**Determiner**|**Possessive**|**Reflexive**|
 |English|they|them|their|theirs|themselves|
-|Verbum|sējūkē|sējūkē|sēmējūkē|sēmējūkē|sējūkētēr|
+|Verbum|sējūkē|sējūkē|mēsējūkē|mēsējūkē|mēsējūkētēr|
 
 When it's necessary to differentiate between a man or woman in a specific type of role or action, much like the **-tēr** suffix to mean Self, we add the **-nōr** to mean in the Feminine. For example, words that have Man or Women in them use **mo** or **mono** (Businessman or Businesswoman). But if the word does not have a **mo** or **mono** portion and you need to identify the word as referring to a female, then we use **nōr**. Such as Teacher (**sōkumo**). To make it specifically Feminine it would be **sōkumonōr.**
 
