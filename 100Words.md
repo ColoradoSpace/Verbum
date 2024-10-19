@@ -100,4 +100,4 @@ We will use the _Top 100 English Words_ to establish a baseline from which to pr
 97. Come - **gano** [gæn.ɑ]
 98. May - This is made from a _Verb Tense/Mood_. In this case _Future Conditional_ (bē- -nē)
 99. Made - **nēpan** [ni:.pæn] Past Tense Make
-100. Part - **jopu** [ʑɑ.pʌ]
+100. Part - **jopu** [ʑɑ.pʊ]
