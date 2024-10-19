@@ -73,7 +73,7 @@ We will use the _Top 100 English Words_ to establish a baseline from which to pr
 70. Look - **rōlan** [roʊ.læn] Couple points here.  First _to See_ can't use **S** because Say does so it used **L** for Look.  Second, Look shows the first example of a _Verb Variation_. **rō**- means _the Physical Act of...verb_ so the physical act of See is _to Look_
 71. Two - **kā** [keɪ]
 72. More - **vejo** [vɛ.ʑɑ]
-73. Write - **rōkumo** [roʊ.kʌm.ɑ]
+73. Write - **rōkumo** [roʊ.kʊm.ɑ]
 74. Go - **gan** [gæn]
 75. See - **lan** [læn]
 76. Number - **kojo** [kɑ.ʑɑ]
