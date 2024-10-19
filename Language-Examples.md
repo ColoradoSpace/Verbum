@@ -183,9 +183,9 @@ ENGLISH: The Baby's ball has rolled away
 
 VERBUM: has rolled away ball baby's
 
-nērādoko ćōnāro lārādoko geś
+nōnēgon yēd lātop mēvōwājo
 
-[ni: reɪ dɑk ɑ t͡ʃoʊ neɪr ɑ leɪ reɪ dɑk ɑ gɛʃ]
+[noʊ ni: gɑn ji:d leɪ tɑp mi: voʊ weɪ ʑɑ]
 
 PST.Process_of.Lock.Opposite_of Adjective.fast.Opposite_of That.Which.You.Process_of.Lock.Opposite_of great
 ```
