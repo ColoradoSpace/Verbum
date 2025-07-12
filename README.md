@@ -11,7 +11,7 @@ As a Oligosynthetic Language, **Verbum** uses a set of modifying morphemes to cr
 
 ## Resources
 
-[Verbum Dictionary](https://docs.google.com/spreadsheets/d/1DzEVLbsp7w-0mrqowXYDS_pEb20REiqQ/edit?gid=1864325591#gid=1864325591)
+[Verbum Dictionary](https://docs.google.com/spreadsheets/d/1rv__kcfYt8jQFfJr8k6lWvrL3p-t1DBF/edit?usp=drive_link&ouid=116659936585701579209&rtpof=true&sd=true)
 
 [Language Exmples with Audio](Language-Examples.md)
 
