@@ -171,12 +171,12 @@ Conjugation in **Verbum** is straight forward but uses a number of derivation mo
 ||
 |--- |
 |**PRESENT DECLARATIVE (ni-) nilan**|
-|I shall / did See|
-|You shall / did See|
-|He/She/It shall / did See|
-|We shall / did See|
-|You shall / did See|
-|They shall / did See|
+|I shall See|
+|You shall See|
+|He/She/It shall See|
+|We shall See|
+|You shall See|
+|They shall See|
 
 ||
 |--- |
